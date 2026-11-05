@@ -1,6 +1,6 @@
 Веб-форум на Python с использованием Flask
 Данное приложение намеренно написано с уязвимостями под OWASP Top 10 и другими для тестирования и развития навыков
-
+https://drive.google.com/file/d/1EZz5-kFTHRB_mDckhNCThkO81U-XIRjr/view?usp=sharing
 ## Зависимости
 
 - Flask
